@@ -24,5 +24,5 @@ var images = [
    setTimeout(function() {
      slideshow.src = images[currentIndex];
      slideshow.style.opacity = 1;
-   }, 1000);
+   }, 500);
  }, 3500);
