@@ -1,17 +1,17 @@
 var images = [
-   "/mystudy/OurTrip-to-Tokyo/img/img1.jpg",
-   "/mystudy/OurTrip-to-Tokyo/img/img2.jpg",
-   "/mystudy/OurTrip-to-Tokyo/img/img3.jpg",
-   "/mystudy/OurTrip-to-Tokyo/img/img4.jpg",
-   "/mystudy/OurTrip-to-Tokyo/img/img5.jpg",
-   "/mystudy/OurTrip-to-Tokyo/img/img6.jpg",
-   "/mystudy/OurTrip-to-Tokyo/img/img7.jpg",
-   "/mystudy/OurTrip-to-Tokyo/img/img8.jpg",
-   "/mystudy/OurTrip-to-Tokyo/img/img9.jpg",
-   "/mystudy/OurTrip-to-Tokyo/img/img10.jpg",
-   "/mystudy/OurTrip-to-Tokyo/img/img11.jpg",
-   "/mystudy/OurTrip-to-Tokyo/img/img12.jpg",
-   "/mystudy/OurTrip-to-Tokyo/img/img13.jpg"
+   "/trip-to-tokyo/img/img1.jpg",
+   "/trip-to-tokyo/img/img2.jpg",
+   "/trip-to-tokyo/img/img3.jpg",
+   "/trip-to-tokyo/img/img4.jpg",
+   "/trip-to-tokyo/img/img5.jpg",
+   "/trip-to-tokyo/img/img6.jpg",
+   "/trip-to-tokyo/img/img7.jpg",
+   "/trip-to-tokyo/img/img8.jpg",
+   "/trip-to-tokyo/img/img9.jpg",
+   "/trip-to-tokyo/img/img10.jpg",
+   "/trip-to-tokyo/img/img11.jpg",
+   "/trip-to-tokyo/img/img12.jpg",
+   "/trip-to-tokyo/img/img13.jpg"
  ];
  
  var currentIndex = 0;
